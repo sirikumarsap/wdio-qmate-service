@@ -3,7 +3,7 @@ import { VerboseLoggerFactory } from "../../helper/verboseLogger";
 import ErrorHandler from "../../helper/errorHandler";
 /**
  * @class userInteraction
- * @memberof Mobile
+ * @memberof mobile
  */
 export class UserInteraction {
   private vlf = new VerboseLoggerFactory("mobile", "UserInteraction");

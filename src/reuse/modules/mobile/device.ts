@@ -5,7 +5,7 @@ import ErrorHandler from "../../helper/errorHandler";
 
 /**
  * @class device
- * @memberof Mobile
+ * @memberof mobile
  */
 export class Device {
   private vlf = new VerboseLoggerFactory("mobile", "device");
