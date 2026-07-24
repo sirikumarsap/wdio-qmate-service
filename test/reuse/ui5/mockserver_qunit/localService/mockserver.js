@@ -8,7 +8,6 @@ sap.ui.define(
     JSONModel,
     Log,
     UriParameters,
-    // eslint-disable-next-line no-unused-vars
     sinonInst
   ) {
     "use strict";
